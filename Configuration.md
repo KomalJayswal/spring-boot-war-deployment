@@ -22,3 +22,8 @@ _Maven dependency **scope provided** is used during build and test the project. 
 ```bash
 <finalName>web-services</finalName>  
 ```
+
+4. ..
+```bash
+Initialize the Servlet Context required by the Tomcat by extends the SpringBootServletInitializer interface
+```
